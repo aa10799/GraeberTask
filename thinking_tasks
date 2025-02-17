@@ -1,0 +1,28 @@
+
+
+Understanding the challenge and planning a solution:
+
+Define a task:
+- should be from behavioral economics
+-
+
+
+Define which cognitive constraints are we experimenting on:
+- scale introvert to extrovert
+- attention span
+- working memory size
+- short term thinking
+- response time
+
+
+
+Define an LLM agent:
+- parametrised by the above constraints in a uniform distribution
+
+
+You want to run the task on the LLM agents in a simulation environment
+
+Get the results of their experiment
+
+Performance evaluation of the simulation (maybe compared to human subjects)
+
